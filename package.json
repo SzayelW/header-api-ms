@@ -1,7 +1,7 @@
 {
-  "name": "header-parser-icroservice",
+  "name": "header-parser-microservice",
   "version": "1.0.0",
-  "description": "A microservie to get header date",
+  "description": "A microservie to get header data",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
