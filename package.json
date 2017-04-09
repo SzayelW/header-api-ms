@@ -1,0 +1,14 @@
+{
+  "name": "header-parser-icroservice",
+  "version": "1.0.0",
+  "description": "A microservie to get header date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Lopez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
